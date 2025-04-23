@@ -30,12 +30,12 @@ Overall, this project gave me hands-on experience in building structured, visual
 
 #OUTPUT 
 
-![Image](https://github.com/user-attachments/assets/825dadd2-a5f2-48ec-ad21-a4564eb0f83f)
-
-![Image](https://github.com/user-attachments/assets/2ee3700a-36cf-4339-888f-70d145863f93)
+![Image](https://github.com/user-attachments/assets/0d09c516-b6a8-41fd-aafc-4549f7c76e44)
 
 ![Image](https://github.com/user-attachments/assets/dccf2dbe-fbd7-40cd-909d-a62e1714f451)
 
 ![Image](https://github.com/user-attachments/assets/a54b3039-1b71-44b0-b0ac-b58b9b96781b)
 
-![Image](https://github.com/user-attachments/assets/0d09c516-b6a8-41fd-aafc-4549f7c76e44)
+![Image](https://github.com/user-attachments/assets/2ee3700a-36cf-4339-888f-70d145863f93)
+
+![Image](https://github.com/user-attachments/assets/825dadd2-a5f2-48ec-ad21-a4564eb0f83f)
