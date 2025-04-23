@@ -32,9 +32,9 @@ Overall, this project gave me hands-on experience in building structured, visual
 
 ![Image](https://github.com/user-attachments/assets/0d09c516-b6a8-41fd-aafc-4549f7c76e44)
 
-![Image](https://github.com/user-attachments/assets/dccf2dbe-fbd7-40cd-909d-a62e1714f451)
-
 ![Image](https://github.com/user-attachments/assets/a54b3039-1b71-44b0-b0ac-b58b9b96781b)
+
+![Image](https://github.com/user-attachments/assets/dccf2dbe-fbd7-40cd-909d-a62e1714f451)
 
 ![Image](https://github.com/user-attachments/assets/2ee3700a-36cf-4339-888f-70d145863f93)
 
