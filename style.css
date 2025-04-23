@@ -1,0 +1,239 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fffdf7;
+  color: #333;
+}
+
+
+header {
+  background: #4eb4be;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #150603;
+}
+nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+nav a:hover {
+  color: #ff6347;
+}
+
+.hero {
+  background-image: url("meals.jpg"); 
+  text-align: center;
+  padding: 100px 20px;
+  background-size:cover;
+  height: 40vh;
+}
+.hero h1 {
+  font-size: 3rem;
+  color: #d35400;
+}
+.hero p {
+  margin: 20px 0;
+  font-size: 1.2rem;
+  color: white;
+  font-weight: bold;
+}
+.btn {
+  background: #ff6347;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.btn:hover {
+  background: #e5533d;
+}
+
+
+.menu {
+  padding: 60px 20px;
+  background: #fffaf0;
+  text-align: center;
+}
+.menu h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+.menu-items {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.item {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  height:250px;
+  width: 250px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+.item img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  height:250px;
+}
+.item h3 {
+  color: #d35400;
+}
+
+
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 60px 20px;
+  background: #cdd8ba;
+}
+.about-text {
+  flex: 1;
+  padding: 20px;
+}
+.about-text h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+.about-img {
+  flex: 1;
+  max-width: 400px;
+}
+.about-img img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.testimonials {
+  background: #aca0b9;
+  padding: 60px 20px;
+  text-align: center;
+  height: 40vh;
+}
+.testimonials h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+.test-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.card {
+  background: rgb(194, 210, 213);
+  padding: 15px;
+  color:black;
+  width: 250px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  margin-bottom: 25px;
+}
+.card span {
+  display: block;
+  margin-top: 10px;
+  font-style: italic;
+  color: #393939;
+}
+
+.contact {
+  background: #86a8cb;
+  padding: 60px 20px;
+  text-align: center;
+}
+.contact h2 {
+  font-size: 2rem;
+  color: #d35400;
+  margin-bottom: 5px;
+}
+.contact p {
+  margin-bottom: 10px;
+  color: black;
+  padding: 10px;
+}
+
+.contact-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
+form {
+  max-width: 400px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+form textarea {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  width: 100%;
+}
+
+form button {
+  background-color: #ff6347;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+}
+form button:hover {
+  background-color: #e5533d;
+}
+
+.contact-info {
+  max-width: 400px;
+  text-align: left;
+  color: #444;
+}
+.contact-info p {
+  margin-bottom: 10px;
+}
+
+
+
+footer {
+  background: #e4a4a4;
+  color: #444;
+  text-align: center;
+  padding: 20px;
+}
+.footer-links {
+  margin-top: 10px;
+}
+.footer-links a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #141217;
+  font-size: 0.9rem;
+}
+.footer-links a:hover {
+  text-decoration: underline;
+}
